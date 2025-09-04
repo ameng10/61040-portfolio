@@ -3,7 +3,7 @@ This is my portfolio repository.
 
 # About Me
 *My name is Anthony Meng, I'm an undergraduate studying computer science, it's nice to meet you!
-This is something about mysellf here!*
+This is something about mysellf below!*
 
 Some fun facts about me:
 1. I am on the track and field team.
