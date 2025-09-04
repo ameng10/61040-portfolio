@@ -10,7 +10,7 @@ Some fun facts about me:
 2. I was in Amsterdam over the summer.
 3. I enjoy puzzles.
 
-
+![picture of me](assets/IMG_4510.jpg)
 
 # Table of Contents
 [Link to Assignment 1](assignments/assignment1.md)
