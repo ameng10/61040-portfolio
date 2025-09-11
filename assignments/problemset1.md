@@ -15,7 +15,7 @@ Answer: Yes a registry can be opened and closed repeatedly as the requirements f
 
 **4. Registry deletion.** There is no action to delete a registry. Would this matter in practice?
 
-Answer:
+Answer: This would not matter in practice because the host can just close the registry and then nobody will be able to purchase items.
 
 **5. Queries.** What are two common queries likely to be executed against the concept state? (Hint: one is executed by a registry owner, and one by a giver of a gift.)
 
