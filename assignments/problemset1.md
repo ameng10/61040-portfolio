@@ -19,12 +19,12 @@ Answer: This would not matter in practice because the host can just close the re
 
 **5. Queries.** What are two common queries likely to be executed against the concept state? (Hint: one is executed by a registry owner, and one by a giver of a gift.)
 
-Answer:
+Answer: One common query likely to be executed by a registry owner is to show all of the current purchases along with the giver of the gifts. Another common query by the giver of the gift is to see all of the gifts that have not been purchased yet.
 
 **6. Hiding purchases.** A common feature of gift registries is to allow the recipient to choose not to see purchases so that an element of surprise is retained. How would you augment the concept specification to support this?
 
-Answer:
+Answer: I would add a hide_purchases flag to the registries set to false and add an action called toggle_purchase_hiding that requires an active registry and it flips the boolean of the hide_purchases flag.
 
 **7. Generic types.** The User and Item types are specified as generic parameters. The Item type might be populated by SKU codes, for example. Explain why this is preferable to representing items with their names, descriptions, prices, etc.
 
-Answer:
+Answer: Using SKU codes for the item type is more favorable so that the gift giver can find the exact item that needs to be purchased as opposed to guessing which item is the correct one.
